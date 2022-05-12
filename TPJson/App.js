@@ -76,5 +76,8 @@ const styles = StyleSheet.create({
     flex: 1,
     width: 50,
     height: 200,
+    borderWidth: 5,
+    borderColor:"orange",
+    
   }
 });
