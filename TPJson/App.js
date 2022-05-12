@@ -9,7 +9,7 @@ class DemoApp extends Component {
 
         <FlatList
           data={tp}
-          showsVerticalScrollIndicator={false}
+          showsVerticalScrollIndicator={true}
           renderItem={({ item }) =>
 
             <View style={styles.container}>
